@@ -4,8 +4,6 @@
 sudo ln -s /home/$USER /home/coder
 mkdir -p ~/vscode ~/git ~/project
 
-#!/bin/bash
-
 echo "Enter your git name:"
 read user_name
 echo "Enter your git email:"
